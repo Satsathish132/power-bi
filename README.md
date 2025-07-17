@@ -1,1 +1,84 @@
-# power-bi
+### Airline Analysis Dashboard
+
+# Tool Used:
+
+Power BI
+
+# Objective:
+
+To analyze and visualize airline operational data in order to understand flight performance trends, delays, and cancellations across different origin airports and days of the week.
+
+
+---
+
+## Dashboard Summary:
+
+# Key Performance Indicators (KPIs) at the Top:
+
+473K – Total Number of Flights
+
+299K – Total On-Time Flights
+
+174.18K – Total Delayed Flights
+
+11.78K – Total Cancelled Flights
+
+1.22M minutes – Total Average Delay Duration
+
+
+These KPIs give an immediate overview of airline operational efficiency.
+
+
+---
+
+## Visuals and Analysis Components:
+
+1. Bar Chart – Count of Airline Name by Origin Airport:
+
+Shows how many flights each airline has operated from origin airports (DCA, BWI, IAD).
+
+Helps identify the most active airlines at each airport.
+
+
+
+2. Donut Charts – Flight Status Breakdown by Origin Airport:
+
+Cancelled Flights and Delayed Flights by origin (DCA, BWI, IAD).
+
+Quickly shows which airports have higher disruptions.
+
+
+
+3. Line + Scatter Chart – Flights and Delays by Airport:
+
+Displays the trend of total flights vs. delayed flights for each origin airport.
+
+Useful for comparing delay rates across airports.
+
+
+
+4. Clustered Column Chart – Daily Flight Performance:
+
+Shows the count of on-time, delayed, and cancelled flights by Day of the Week.
+
+Highlights which days experience more disruptions or higher efficiency.
+
+
+
+5. Slicers – Filters for Dynamic Analysis:
+
+Year
+
+Airline Name
+
+Allows users to interactively explore the data by selecting specific years or airline
+
+## Conclusion / Insights:
+
+This dashboard provides a comprehensive overview of flight performance across airports. Users can:
+
+Monitor delays and cancellations by location and day.
+
+Identify performance trends for specific airlines.
+
+Take data-driven decisions to optimize flight scheduling or improve operational efficiency.
