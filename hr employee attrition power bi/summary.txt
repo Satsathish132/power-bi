@@ -1,0 +1,84 @@
+HR Employee Attrition Summary
+
+	This dashboard presents key insights into employee attrition trends across various departments, roles, and demographics.
+
+
+Key Metrics:
+
+	Male %: 60%
+
+	Female %: 40%
+
+	Employees Left: 237
+
+	Total Employees: 1,470
+
+	Average Hourly Rate: 65.89
+
+	Overtime Employees: 416
+
+	
+Demographics & Department Insights:
+
+Gender by Department:
+
+	Higher male representation in departments like Sales and Research & Development.
+
+	Lower overall female participation in all departments.
+
+
+Marital Status:
+
+	Married: 47.6%
+
+	Single: 31.0%
+
+	Divorced: 21.3%
+
+
+Attrition Factors:
+
+Job Satisfaction:
+
+	61% of employees are satisfied (good), while 39% reported dissatisfaction.
+
+
+Business Travel:
+
+	Most employees travel rarely.
+
+	Few employees travel frequently or not at all.
+
+
+Overtime:
+
+	A significant portion (416) of employees work overtime, which may correlate with attrition.
+
+
+Job Role Analysis:
+
+Highest attrition seen in:
+
+	Laboratory Technician
+
+	Sales Executive
+
+	Research Scientist
+
+
+Lower attrition seen in:
+
+	Healthcare Representative
+
+	Manager
+	
+	Manufacturing Director
+
+
+Conclusion:
+
+	Attrition is influenced by job satisfaction, overtime work, and travel frequency.
+
+Labor-intensive and sales roles show higher attrition.
+
+Improving job satisfaction, reducing overtime dependency, and reviewing travel policies could help reduce turnover.
